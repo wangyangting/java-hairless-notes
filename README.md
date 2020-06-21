@@ -1,2 +1,2 @@
-# java-hairless-notes
+# Java Hairless Notes
 Java Hairless Notes
